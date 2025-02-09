@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Praneeth446
 - 👀 I’m interested in Web development and codeing
-- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
